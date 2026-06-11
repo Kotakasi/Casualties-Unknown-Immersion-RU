@@ -1,7 +1,5 @@
 {
  "version": "1.10.0",
  "changelog": "- Реакции персонажа переписаны заново: живее, разнообразнее, мат - строго по делу.\n- Выжившие стали живыми: у каждого своя история и встречные вопросы, как в RPG. Открываются по доверию (обнимай, давай нужное).\n- Исправлены перепутанные реплики предметов (бинт - про кровь, шина - про кость и т.п.).\n- Добавлено автообновление прямо из игры.",
- "url": "https://github.com/Kotakasi/Casualties-Unknown-Immersion-RU/releases/download/Casualties-Unknown/update.zip",
- "sha256": "281acef7b775bf732dc226a30ec1c459c5a91c559d2edacce1c2812d27dacde5",
- "size": 193912
+ "url": "https://github.com/Kotakasi/Casualties-Unknown-Immersion-RU/releases/download/Casualties-Unknown/update.zip"
 }
